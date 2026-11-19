@@ -27,3 +27,4 @@ scripts/verify-output.py
 
 # De-identified demo files (fake data only) for trying the tool.
 !samples/*.pdf
+!sample-output/*.pdf
