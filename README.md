@@ -10,7 +10,7 @@
 
 ## 簡單使用
 
-先從 [最新版本下載頁](https://github.com/winefont/shopee-meow-print/releases/latest) 下載 Windows 64 位元 EXE，安裝後點桌面「蝦皮印單喵」捷徑。
+先從 [最新版本下載頁](https://github.com/piyopiyolee/shopee-meow-print/releases/latest) 下載 Windows 64 位元 EXE，安裝後點桌面「蝦皮印單喵」捷徑。
 
 1. **下載文件**：蝦皮賣家中心 → 我的銷售 → 批次出貨 → 下載出貨文件。選「寄件單+裝箱單／一般列印（A4）」；7-11、全家若分開下載，寄件單與裝箱單兩份 PDF 都要保留。
 2. **匯入產生**：把這一批 PDF 全部拖入工具，按「產生出貨標籤」。
