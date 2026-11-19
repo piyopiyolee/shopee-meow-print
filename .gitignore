@@ -24,3 +24,6 @@ scripts/test-windows-installer.ps1
 scripts/verify-output.py
 /public/ocr/
 /public/help.html
+
+# De-identified demo files (fake data only) for trying the tool.
+!samples/*.pdf
